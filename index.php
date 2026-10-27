@@ -9,7 +9,7 @@
 <body>
     <?php include __DIR__ . '/includes/header.php'; ?>
 
-    <h1>LaMovies</h1>
+    <h2>Catálogo de Filmes Bacanas</h2>
 
     <p>Bem-vindo ao sistema de gerenciamento de filmes.</p>
     
