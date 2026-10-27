@@ -1,5 +1,5 @@
 <header>
-    <h1>Catálogo de Filmes</h1>
+    <h1>LaMovies</h1>
     <nav>
         <div>
             <a href="/grandesistema/index.php">Início</a>
